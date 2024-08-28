@@ -1,0 +1,13 @@
+{
+    "include": ["src"],
+    "compilerOptions": {
+        "outDir": "dist",
+        "target": "ES2022",
+        "moduleResolution": "Node",
+        "noUnusedParameters": false,
+        "noUnusedLocals": false,
+        "noImplicitAny": true,
+        "noImplicitThis": true,
+        "strictNullChecks": true,
+    }
+}
